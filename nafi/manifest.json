@@ -26,11 +26,6 @@
       "checksum": "5660c1ed5fee202ca5ca9a617a4202b4"
     },
     {
-      "name": "mods/CosmeticArmor-1.21-1.7.0.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/CosmeticArmor-1.21-1.7.0.jar",
-      "checksum": "1b00389ca9fa90d6cdb7bce155c35206"
-    },
-    {
       "name": "mods/EasyAnvils-v21.1.0-1.21.1-Fabric.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/EasyAnvils-v21.1.0-1.21.1-Fabric.jar",
       "checksum": "dca42e92af9db394aa03c97abc4a41f0"
@@ -199,11 +194,6 @@
       "name": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/bookshelf-fabric-1.21.1-21.1.81.jar",
       "checksum": "dfe7f6646a8783c57910cfb910db61c9"
-    },
-    {
-      "name": "mods/cave_dweller-1.19.4-1.6.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/cave_dweller-1.19.4-1.6.1.jar",
-      "checksum": "8f6e9cee701c76fc79c37bdf51715439"
     },
     {
       "name": "mods/cloth-config-15.0.140-fabric.jar",
