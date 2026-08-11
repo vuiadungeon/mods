@@ -1,0 +1,409 @@
+{
+  "files": [
+    {
+      "name": "mods/BCLibRemastered-30.4.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/BCLibRemastered-30.4.0.jar",
+      "checksum": "2e53e7dc61ebe1b123a1d04ff1a03687"
+    },
+    {
+      "name": "mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/BadOptimizations-2.4.1-1.21.1.jar",
+      "checksum": "59ee243a5ccd09fff1dd2879b3cad72a"
+    },
+    {
+      "name": "mods/BetterEndRemastered-30.4.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/BetterEndRemastered-30.4.0.jar",
+      "checksum": "d51e359dac87da01405c054b23faad81"
+    },
+    {
+      "name": "mods/BetterNetherRemastered-30.4.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/BetterNetherRemastered-30.4.0.jar",
+      "checksum": "1da59cf5f9a9708a1692319291b7d711"
+    },
+    {
+      "name": "mods/Controlling-fabric-1.21.1-19.0.5.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Controlling-fabric-1.21.1-19.0.5.jar",
+      "checksum": "5660c1ed5fee202ca5ca9a617a4202b4"
+    },
+    {
+      "name": "mods/EasyAnvils-v21.1.0-1.21.1-Fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/EasyAnvils-v21.1.0-1.21.1-Fabric.jar",
+      "checksum": "dca42e92af9db394aa03c97abc4a41f0"
+    },
+    {
+      "name": "mods/EasyMagic-v21.1.4-1.21.1-Fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/EasyMagic-v21.1.4-1.21.1-Fabric.jar",
+      "checksum": "ed6ef361e6d25c43c3f5a5988cc1e57a"
+    },
+    {
+      "name": "mods/FarmersDelight-1.21.1-3.3.3+refabricated.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/FarmersDelight-1.21.1-3.3.3+refabricated.jar",
+      "checksum": "0a509a64f871c958ab659fa684ea10c4"
+    },
+    {
+      "name": "mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/ForgeConfigAPIPort-v21.1.6-1.21.1-Fabric.jar",
+      "checksum": "eba1a7f9d9976e983a2b9eb5e915e087"
+    },
+    {
+      "name": "mods/Ixeris-4.6.2+1.21.1-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Ixeris-4.6.2+1.21.1-fabric.jar",
+      "checksum": "74ed52907358809975b24c9a386be361"
+    },
+    {
+      "name": "mods/Jade-1.21.1-Fabric-15.10.6.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Jade-1.21.1-Fabric-15.10.6.jar",
+      "checksum": "be81fdbb2c03889c463260b52739621c"
+    },
+    {
+      "name": "mods/MoAnimals-fabric-1.21.1-0.2.0-SNAPSHOT1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/MoAnimals-fabric-1.21.1-0.2.0-SNAPSHOT1.jar",
+      "checksum": "ef65ad7a9c753d253da8c5e4e1940cde"
+    },
+    {
+      "name": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/MouseTweaks-fabric-mc1.21-2.26.jar",
+      "checksum": "1d39ead1641ef522bc7ae92383f21da8"
+    },
+    {
+      "name": "mods/PlayerCollars-1.6.0+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/PlayerCollars-1.6.0+1.21.1.jar",
+      "checksum": "c54c1e17ace351ec634a4288e877d337"
+    },
+    {
+      "name": "mods/PuzzlesLib-v21.1.52-1.21.1-Fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/PuzzlesLib-v21.1.52-1.21.1-Fabric.jar",
+      "checksum": "dc27f9ca3b9fc3df98df03919dc72456"
+    },
+    {
+      "name": "mods/Ribbits-1.21.1-Fabric-4.1.6.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Ribbits-1.21.1-Fabric-4.1.6.jar",
+      "checksum": "dd198eb2a52dfd9e7ab5727f0356df34"
+    },
+    {
+      "name": "mods/ScalableLux-fabric-0.3.0-alpha.0.5-all.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/ScalableLux-fabric-0.3.0-alpha.0.5-all.jar",
+      "checksum": "19a779e8773c98b3169055a8baffa0d6"
+    },
+    {
+      "name": "mods/Searchables-fabric-1.21.1-1.0.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Searchables-fabric-1.21.1-1.0.2.jar",
+      "checksum": "33d8f858261d757ef89144ac13013987"
+    },
+    {
+      "name": "mods/WorldWeaverRemastered-30.4.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/WorldWeaverRemastered-30.4.0.jar",
+      "checksum": "5b48f4c75660984384fbac252744a253"
+    },
+    {
+      "name": "mods/YungsApi-1.21.1-Fabric-5.1.6.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsApi-1.21.1-Fabric-5.1.6.jar",
+      "checksum": "117aa2db815986b1346ff6464d99aa6f"
+    },
+    {
+      "name": "mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsBetterDesertTemples-1.21.1-Fabric-4.1.5.jar",
+      "checksum": "82e85b1ccffdee21474e98da32eefb02"
+    },
+    {
+      "name": "mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar",
+      "checksum": "dd05e407c3c2d2a0090eb713a15ac49a"
+    },
+    {
+      "name": "mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsBetterJungleTemples-1.21.1-Fabric-3.1.2.jar",
+      "checksum": "3c582e76c9413e1af8fd2dcb6708779e"
+    },
+    {
+      "name": "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar",
+      "checksum": "f537ac7481a2a6a3164082a93f8691af"
+    },
+    {
+      "name": "mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsBetterOceanMonuments-1.21.1-Fabric-4.1.2.jar",
+      "checksum": "ab76527e9eb1c29375bdb70bca8f6dce"
+    },
+    {
+      "name": "mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar",
+      "checksum": "d480ea480d47cf731cd00c39abfae160"
+    },
+    {
+      "name": "mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/YungsBetterWitchHuts-1.21.1-Fabric-4.1.1.jar",
+      "checksum": "18e5b203e76da0bf3afe8c937d2926e3"
+    },
+    {
+      "name": "mods/another_furniture-fabric-4.0.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/another_furniture-fabric-4.0.2.jar",
+      "checksum": "205dc477171d01dbbf8dc6c72db8c9cd"
+    },
+    {
+      "name": "mods/appleskin-fabric-mc1.21-3.0.6.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/appleskin-fabric-mc1.21-3.0.6.jar",
+      "checksum": "a24c435e84973afd607e20395ecba19d"
+    },
+    {
+      "name": "mods/architectury-13.0.11-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/architectury-13.0.11-fabric.jar",
+      "checksum": "5d7a93f9b84d8facf6a7d7a51d71158b"
+    },
+    {
+      "name": "mods/arsenal-fabric-1.4.3+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/arsenal-fabric-1.4.3+1.21.1.jar",
+      "checksum": "30466b4d5e93c0ba52810febdbca3627"
+    },
+    {
+      "name": "mods/azurelibarmor-fabric-1.21.1-3.1.3.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/azurelibarmor-fabric-1.21.1-3.1.3.jar",
+      "checksum": "cf60f394f2fa7b6c9b15950346ee9f1c"
+    },
+    {
+      "name": "mods/balm-fabric-1.21.1-21.0.64.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/balm-fabric-1.21.1-21.0.64.jar",
+      "checksum": "b080a873d3afefd6bc045468d74da3ca"
+    },
+    {
+      "name": "mods/beautify-2.0.0+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/beautify-2.0.0+1.21.1.jar",
+      "checksum": "eaf50ca33137846e0430aa8afc48a223"
+    },
+    {
+      "name": "mods/bookshelf-fabric-1.21.1-21.1.81.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/bookshelf-fabric-1.21.1-21.1.81.jar",
+      "checksum": "dfe7f6646a8783c57910cfb910db61c9"
+    },
+    {
+      "name": "mods/cave_dweller-1.19.4-1.6.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/cave_dweller-1.19.4-1.6.1.jar",
+      "checksum": "8f6e9cee701c76fc79c37bdf51715439"
+    },
+    {
+      "name": "mods/cloth-config-15.0.140-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/cloth-config-15.0.140-fabric.jar",
+      "checksum": "a2c091b027ad6ba8e54b07020fd45884"
+    },
+    {
+      "name": "mods/comforts-fabric-9.0.5+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/comforts-fabric-9.0.5+1.21.1.jar",
+      "checksum": "609e01638d5b6f2d864ee299e524395d"
+    },
+    {
+      "name": "mods/continuity-3.0.0+1.21.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/continuity-3.0.0+1.21.jar",
+      "checksum": "daee3841730e2576a621943f289deadb"
+    },
+    {
+      "name": "mods/crittersandcompanions-fabric-1.21.1-2.6.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/crittersandcompanions-fabric-1.21.1-2.6.2.jar",
+      "checksum": "133dc50ddd311844955a16c527d3943f"
+    },
+    {
+      "name": "mods/dungeons-and-taverns-v4.4.4.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/dungeons-and-taverns-v4.4.4.jar",
+      "checksum": "a699403795f74dec1fa9bc3a0dd408c2"
+    },
+    {
+      "name": "mods/enchdesc-fabric-1.21.1-21.1.10.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/enchdesc-fabric-1.21.1-21.1.10.jar",
+      "checksum": "0bc636d8ac8b6f8a782c0a0666973789"
+    },
+    {
+      "name": "mods/entity_model_features-3.2.4-1.21-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/entity_model_features-3.2.4-1.21-fabric.jar",
+      "checksum": "91f3be98f2f2cd76d3ad68525f76ff79"
+    },
+    {
+      "name": "mods/entity_texture_features_1.21-fabric-7.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/entity_texture_features_1.21-fabric-7.1.jar",
+      "checksum": "ae33b3cdbe2d7b431e5d36c41efb34c9"
+    },
+    {
+      "name": "mods/fabric-api-0.116.15+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/fabric-api-0.116.15+1.21.1.jar",
+      "checksum": "e24c27a4ece4ee82ca7a55f2f5b544f4"
+    },
+    {
+      "name": "mods/ferritecore-7.0.3-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/ferritecore-7.0.3-fabric.jar",
+      "checksum": "b8513c8c3eef01ea1117ed8d8cba060d"
+    },
+    {
+      "name": "mods/geckolib-fabric-1.21.1-4.9.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/geckolib-fabric-1.21.1-4.9.2.jar",
+      "checksum": "fe791e7b10c8b7c736ea3e57747eac09"
+    },
+    {
+      "name": "mods/grind-enchantments-4.0.0+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/grind-enchantments-4.0.0+1.21.1.jar",
+      "checksum": "e1a628ca385f918356d340c7b993052f"
+    },
+    {
+      "name": "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+      "checksum": "4399f0c3edfe2af7f61db3725fe5c751"
+    },
+    {
+      "name": "mods/jei-1.21.1-fabric-19.44.0.400.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/jei-1.21.1-fabric-19.44.0.400.jar",
+      "checksum": "605bdef0d6960b747312490339fe29be"
+    },
+    {
+      "name": "mods/krypton-0.2.8.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/krypton-0.2.8.jar",
+      "checksum": "9ba3d734dac0e59deb4721f2f23c65ad"
+    },
+    {
+      "name": "mods/lambdynamiclights-4.8.10+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/lambdynamiclights-4.8.10+1.21.1.jar",
+      "checksum": "2987072d76db05c5834cfd8c0377a62d"
+    },
+    {
+      "name": "mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/lithium-fabric-0.15.4+mc1.21.1.jar",
+      "checksum": "6fd6783640f42130f041b50cca2d3be6"
+    },
+    {
+      "name": "mods/miku-plushie-2.0.1-1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/miku-plushie-2.0.1-1.21.1.jar",
+      "checksum": "f3ab9d22ef95b4ca91d2c04ca012429d"
+    },
+    {
+      "name": "mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/modernfix-fabric-5.25.1+mc1.21.1.jar",
+      "checksum": "17260c894041b7b4a1b1f2fd1a8f1a8b"
+    },
+    {
+      "name": "mods/modmenu-11.0.4.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/modmenu-11.0.4.jar",
+      "checksum": "b2b9c53a887c100f780708c4f36db6c4"
+    },
+    {
+      "name": "mods/my-little-plushie-0.11.0+mc1.21.1+fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/my-little-plushie-0.11.0+mc1.21.1+fabric.jar",
+      "checksum": "a81cbe95b9a261fbadcd3c5c42f726a3"
+    },
+    {
+      "name": "mods/placeholder-api-2.4.2+1.21.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/placeholder-api-2.4.2+1.21.jar",
+      "checksum": "4de8568a088a276c94168514d625413d"
+    },
+    {
+      "name": "mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/player-animation-lib-fabric-2.0.4+1.21.1.jar",
+      "checksum": "93e684b0c741294dc2ac7e6b1f958dd2"
+    },
+    {
+      "name": "mods/plushie_buddies-0.1.7-1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/plushie_buddies-0.1.7-1.21.1.jar",
+      "checksum": "0a8a3da0ef7330c34e541ff9962246ef"
+    },
+    {
+      "name": "mods/prickle-fabric-1.21.1-21.1.11.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/prickle-fabric-1.21.1-21.1.11.jar",
+      "checksum": "507c4368b9c2c19ad99b02413fe34865"
+    },
+    {
+      "name": "mods/ranged_weapon_api-fabric-2.3.3+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/ranged_weapon_api-fabric-2.3.3+1.21.1.jar",
+      "checksum": "c1c9f6fe5c0e5561bc4095ae8a887ddc"
+    },
+    {
+      "name": "mods/rogues-fabric-3.0.4+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/rogues-fabric-3.0.4+1.21.1.jar",
+      "checksum": "7d157c56665f5d582739db69ca76086e"
+    },
+    {
+      "name": "mods/rrls-5.0.11+mc1.21.1-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/rrls-5.0.11+mc1.21.1-fabric.jar",
+      "checksum": "931524a5e34363f81dd0dbad884571d6"
+    },
+    {
+      "name": "mods/shield_api-fabric-2.2.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/shield_api-fabric-2.2.0.jar",
+      "checksum": "1b6a06b9b84780eb5a4b482cf42ef3fa"
+    },
+    {
+      "name": "mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/shulkerboxtooltip-fabric-5.1.9+1.21.1.jar",
+      "checksum": "79d01b3131d41091b3427367564a26e9"
+    },
+    {
+      "name": "mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/skinlayers3d-fabric-1.11.2-mc1.21.1.jar",
+      "checksum": "b5bcc7224d00acd14741d4c3a726b5a4"
+    },
+    {
+      "name": "mods/sodium-fabric-0.8.13-beta.2+mc1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/sodium-fabric-0.8.13-beta.2+mc1.21.1.jar",
+      "checksum": "c7de9be37a92809c2b9dceefe74743ee"
+    },
+    {
+      "name": "mods/spark-1.10.109-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/spark-1.10.109-fabric.jar",
+      "checksum": "7c8aa4055fff1aa75a43d26a0afd9e5c"
+    },
+    {
+      "name": "mods/spears-1.0.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/spears-1.0.0.jar",
+      "checksum": "93614f62623b5e2e8a2cd72c86d8b9db"
+    },
+    {
+      "name": "mods/spell_engine-fabric-1.9.16+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/spell_engine-fabric-1.9.16+1.21.1.jar",
+      "checksum": "0bf4dcccb9b2fd18be5717c5b2d97640"
+    },
+    {
+      "name": "mods/spell_power-fabric-1.5.0+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/spell_power-fabric-1.5.0+1.21.1.jar",
+      "checksum": "6921da268ede11e42af1b1d50f0cf6b4"
+    },
+    {
+      "name": "mods/structure_pool_api-fabric-1.2.1+1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/structure_pool_api-fabric-1.2.1+1.21.1.jar",
+      "checksum": "4da9952c0d35638a45915a52a23b0ffd"
+    },
+    {
+      "name": "mods/trinkets-3.10.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/trinkets-3.10.0.jar",
+      "checksum": "4a42e243d6d5c25dea83be3ddc0b28b1"
+    },
+    {
+      "name": "mods/waystones-fabric-1.21.1-21.1.40.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/waystones-fabric-1.21.1-21.1.40.jar",
+      "checksum": "9ffee476da7b3338b9c3183c3f0d9aad"
+    },
+    {
+      "name": "mods/wood_cutter-2.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/wood_cutter-2.0.jar",
+      "checksum": "3b6c1414aab2a18d20d8511cf4bc56b0"
+    },
+    {
+      "name": "mods/wunderlib-21.0.8.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/wunderlib-21.0.8.jar",
+      "checksum": "4fcfb12f3e187f788b3ab9aaa22eab33"
+    },
+    {
+      "name": "mods/xaerominimap-fabric-1.21.1-26.4.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/xaerominimap-fabric-1.21.1-26.4.2.jar",
+      "checksum": "c5dc72b99f6bca09e42e5786da1c9b97"
+    },
+    {
+      "name": "mods/xaeroworldmap-fabric-1.21.1-1.44.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/xaeroworldmap-fabric-1.21.1-1.44.2.jar",
+      "checksum": "779cde2dce63cf90d6b318933c2d1080"
+    },
+    {
+      "name": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar",
+      "checksum": "aadf11f5a793296be7c195e1ca388492"
+    },
+    {
+      "name": "mods/youre-in-grave-danger-fabric-2.4.18.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/youre-in-grave-danger-fabric-2.4.18.jar",
+      "checksum": "899e56f77ea10c3918032d50d0f39eec"
+    }
+  ]
+}
