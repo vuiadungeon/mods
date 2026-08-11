@@ -479,11 +479,6 @@
       "name": "mods/youre-in-grave-danger-fabric-2.4.18.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/youre-in-grave-danger-fabric-2.4.18.jar",
       "checksum": "899e56f77ea10c3918032d50d0f39eec"
-    },
-    {
-      "name": "mods/ysm-2.6.5-fabric+mc1.21.1-release.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/ysm-2.6.5-fabric+mc1.21.1-release.jar",
-      "checksum": "473a958fe7ceb70e9e6ade4fa8d670c4"
     }
   ]
 }
