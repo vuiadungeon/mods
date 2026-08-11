@@ -46,6 +46,16 @@
       "checksum": "eba1a7f9d9976e983a2b9eb5e915e087"
     },
     {
+      "name": "mods/Highlighter-1.21-fabric-1.1.11.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Highlighter-1.21-fabric-1.1.11.jar",
+      "checksum": "27c6870144ceac9040ef271c238c2218"
+    },
+    {
+      "name": "mods/Iceberg-1.21.1-fabric-1.3.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Iceberg-1.21.1-fabric-1.3.2.jar",
+      "checksum": "fe26852d922aa24dad9c81270a09f929"
+    },
+    {
       "name": "mods/Ixeris-4.6.2+1.21.1-fabric.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/Ixeris-4.6.2+1.21.1-fabric.jar",
       "checksum": "74ed52907358809975b24c9a386be361"
@@ -64,6 +74,11 @@
       "name": "mods/MouseTweaks-fabric-mc1.21-2.26.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/MouseTweaks-fabric-mc1.21-2.26.jar",
       "checksum": "1d39ead1641ef522bc7ae92383f21da8"
+    },
+    {
+      "name": "mods/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/PickUpNotifier-v21.1.1-1.21.1-Fabric.jar",
+      "checksum": "addac5abb66a145a54929c5bf02c991d"
     },
     {
       "name": "mods/PlayerCollars-1.6.0+1.21.1.jar",
@@ -281,6 +296,11 @@
       "checksum": "b2b9c53a887c100f780708c4f36db6c4"
     },
     {
+      "name": "mods/moonlight-1.21.1-3.3.3-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/moonlight-1.21.1-3.3.3-fabric.jar",
+      "checksum": "7e66f320e6cddf1337068ba929c25a5c"
+    },
+    {
       "name": "mods/my-little-plushie-0.11.0+mc1.21.1+fabric.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/my-little-plushie-0.11.0+mc1.21.1+fabric.jar",
       "checksum": "a81cbe95b9a261fbadcd3c5c42f726a3"
@@ -366,9 +386,24 @@
       "checksum": "4da9952c0d35638a45915a52a23b0ffd"
     },
     {
+      "name": "mods/supplementaries-1.21.1-3.8.8-fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/supplementaries-1.21.1-3.8.8-fabric.jar",
+      "checksum": "50f2440bebc77d8061aa0636172fb1cb"
+    },
+    {
+      "name": "mods/toms_storage_fabric-1.21-2.4.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/toms_storage_fabric-1.21-2.4.1.jar",
+      "checksum": "639d5953eceb351bb2f6f617d3f6a823"
+    },
+    {
       "name": "mods/trinkets-3.10.0.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/trinkets-3.10.0.jar",
       "checksum": "4a42e243d6d5c25dea83be3ddc0b28b1"
+    },
+    {
+      "name": "mods/visuality-0.7.7+1.21.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/visuality-0.7.7+1.21.jar",
+      "checksum": "f6afa7bac94101addeb4b2ee34eb828f"
     },
     {
       "name": "mods/waystones-fabric-1.21.1-21.1.40.jar",
