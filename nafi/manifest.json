@@ -1,6 +1,11 @@
 {
   "files": [
     {
+      "name": "mods/AviatorDreams2.0.11.20.1-Fabric.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/AviatorDreams2.0.11.20.1-Fabric.jar",
+      "checksum": "b58303dc7a9bef5ba3dc5f4e3c563050"
+    },
+    {
       "name": "mods/BCLibRemastered-30.4.0.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/BCLibRemastered-30.4.0.jar",
       "checksum": "2e53e7dc61ebe1b123a1d04ff1a03687"
