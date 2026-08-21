@@ -416,6 +416,11 @@
       "checksum": "931524a5e34363f81dd0dbad884571d6"
     },
     {
+      "name": "mods/scarecrowsterritory-1.1.11a-fabric-mc1.21.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/scarecrowsterritory-1.1.11a-fabric-mc1.21.jar",
+      "checksum": "90aa75c77cb0d9482c6a58bf5efaf553"
+    },
+    {
       "name": "mods/shield_api-fabric-2.2.0.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/shield_api-fabric-2.2.0.jar",
       "checksum": "1b6a06b9b84780eb5a4b482cf42ef3fa"
