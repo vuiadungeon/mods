@@ -461,6 +461,11 @@
       "checksum": "6921da268ede11e42af1b1d50f0cf6b4"
     },
     {
+      "name": "mods/squatgrow-fabric-21.1.4+mc1.21.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/squatgrow-fabric-21.1.4+mc1.21.1.jar",
+      "checksum": "a07033713b588ea0b6c72d74d9779b10"
+    },
+    {
       "name": "mods/structure_pool_api-fabric-1.2.1+1.21.1.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/nafi/mods/structure_pool_api-fabric-1.2.1+1.21.1.jar",
       "checksum": "4da9952c0d35638a45915a52a23b0ffd"
