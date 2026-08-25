@@ -1,0 +1,17 @@
+filename = 'createlowheated-forge-1.20.1-6.0.8-6.jar'
+name = 'Create Low-Heated'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'createlowheated-forge-1.20.1-6.0.8-6.jar'
+
+[download]
+hash = 'a85719a568f4dd7e7c7117e8e678a0de76375e5a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8074958
+project-id = 873945

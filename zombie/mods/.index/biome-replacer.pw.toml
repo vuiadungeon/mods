@@ -1,0 +1,17 @@
+filename = 'biomereplacer-2.1-hippo-forge.jar'
+name = 'Biome Replacer'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.19.4', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.1 Forge 1.19.4-1.20.4'
+
+[download]
+hash = '382cb16421baa0a4f1e02bb44e64d1a0f4d40e0e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6807124
+project-id = 910274

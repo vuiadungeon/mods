@@ -1,0 +1,1 @@
+{"jarName":"bbb-forge-2.0pre4.jar","modId":"bbb","version":"2.0pre4","mixinConfigs":["bbb.mixins.json"],"jarJarMods":[{"jarName":"midnightlib-1.4.2-forge.jar","modId":"midnightlib","version":"1.4.2","mixinConfigs":["midnightlib.mixins.json"],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}],"curseForgeHash":1523798668,"modrinthHash":"3cdd83d437c6893b05097b90300980fbf12c91f8"}

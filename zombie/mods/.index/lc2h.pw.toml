@@ -1,0 +1,17 @@
+filename = 'lc2h-3.5.0.jar'
+name = 'LC²H [Lost Cities: Multithreaded]'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'lc2h-3.5.0.jar'
+
+[download]
+hash = 'df308c8b2872c759a6a0a06dac136dc2691878c6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7978635
+project-id = 1325431

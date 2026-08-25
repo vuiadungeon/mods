@@ -1,0 +1,17 @@
+filename = 'Tips-Forge-1.20.1-12.1.9.jar'
+name = 'Tips'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Tips-Forge-1.20.1-12.1.9.jar'
+
+[download]
+hash = '033d62395ecf7939f82e5a69ef53cf62ad1afb7f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7613269
+project-id = 306549

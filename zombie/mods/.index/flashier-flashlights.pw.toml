@@ -1,0 +1,17 @@
+filename = 'Flashier Flashlights 1.2.0.jar'
+name = 'Flashier Flashlights'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Flashier Flashlights 1.2.0.jar'
+
+[download]
+hash = 'd85e7e8f89e674eb029a1ba2f113a99a8430530b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8453760
+project-id = 1604184
