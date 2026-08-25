@@ -1,0 +1,17 @@
+filename = 'extra_zombie_drops-1.0.0.jar'
+name = 'Extra Zombie Drops'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.20.1 (v5)'
+
+[download]
+hash = '8ca6422cac3f7067c0f2d8a5062fcd651c84ded6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6765912
+project-id = 822109

@@ -1,0 +1,1 @@
+{"jarName":"Flashier Flashlights 1.2.0.jar","modId":"flashlightmod","version":"1.2.0","mixinConfigs":["flashlightmod.mixins.json","flashlightmod-iris-compat.mixins.json"],"jarJarMods":[{"jarName":"jcodec-0.2.5.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jarjar/"}],"curseForgeHash":3254369845,"modrinthHash":"d85e7e8f89e674eb029a1ba2f113a99a8430530b"}
