@@ -45402,11 +45402,6 @@
       "checksum": "5419a196ae5d34b22b9209369cd70147ac889ed45facb46e527f35ad7633f8d7"
     },
     {
-      "name": "usercache.json",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/usercache.json",
-      "checksum": "0e07ad1b528bba86c22573c569ddb57de3d3ea44a48b6104a678e481b917ba4e"
-    },
-    {
       "name": "usernamecache.json",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/usernamecache.json",
       "checksum": "a3e09fa15f800ff61bd215f97345341670d6eda42473c12edb3766a6018fddf6"
