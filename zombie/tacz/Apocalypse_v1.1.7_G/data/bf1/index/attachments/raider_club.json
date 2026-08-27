@@ -1,8 +1,0 @@
-{
-  "name": "bf1.attachment.raider_club.name",
-  "display": "bf1:raider_club_display",
-  "data": "bf1:raider_club_data",
-  "tooltip": "bf1.attachment.raider_club.desc",
-  "type": "stock",
-  "sort": 18
-}
