@@ -1,0 +1,13 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "zombiekit:guide_book": {
+      "viewedEntries": [
+        "zombiekit:weapons/machete"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

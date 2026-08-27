@@ -1,0 +1,17 @@
+filename = 'biomesize-1.20.1-1.6.jar'
+name = 'Biome Sizes'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'biomesize-1.20.1-1.6.jar'
+
+[download]
+hash = 'b513e9447b1f5d19b63da324cb75a38a370a7c99'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7541878
+project-id = 775502

@@ -1,0 +1,53 @@
+[16:39:38] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[16:39:38] [INIT] Loaded plugins:
+[16:39:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[16:39:38] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[16:39:38] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[16:39:38] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[16:39:38] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[16:39:38] [INIT] - com.tacz.guns.compat.kubejs.TimelessKubeJSPlugin
+[16:39:38] [INFO] Loaded script server_scripts:cwTweaks.js in 0.007 s
+[16:39:38] [INFO] Loaded script server_scripts:itemRecipeBlacklist.js in 0.002 s
+[16:39:38] [INFO] Loaded script server_scripts:lootTweaks.js in 0.0 s
+[16:39:38] [INFO] Loaded script server_scripts:matt's_stims_server.js in 0.001 s
+[16:39:38] [INFO] Loaded 4/4 KubeJS server scripts in 0.019 s with 0 errors and 0 warnings
+[16:39:38] [INFO] Scripts loaded
+[16:39:38] [INFO] Initializing recipe event...
+[16:39:40] [INFO] [minecraft:item] Found 1410 tags, added 85 objects, removed 0 objects
+[16:39:40] [INFO] [minecraft:block] Found 772 tags, added 2 objects, removed 0 objects
+[16:39:40] [INFO] Processing recipes...
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_wooden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_stone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_diamond_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_iron_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:void_vision_spyglass[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_onyx_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_netherite_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_shield[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'sfms:gun/har50[tacz:gun_smith_table_crafting]'! Falling back to vanilla: Unknown item 'the_deeper_void:netherite_rhenium_ingot'
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:lavendite_bone_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'the_deep_void:rotten_golden_sword[minecraft:smithing_transform]'! Falling back to vanilla: Ingredient 'template' can't be empty!
+[16:39:40] [WARN] Failed to parse recipe 'tacz:gun_smith_table[minecraft:crafting_shaped]'! Falling back to vanilla: Failed to parse custom ingredient ("custom") from {"type":"custom","group":"tacz:misc","item":{"item":"minecraft:painting","nbt":{"display":{"Name":"{\"translate\":\"\"}"},"EntityTag":{"variant":"tacz:blood_strike_1"}},"count":1}}: com.google.gson.JsonSyntaxException: Unknown ingredient type: custom
+[16:39:40] [INFO] Found 11771 recipes in 99.53 ms
+[16:39:40] [INFO] cwTweaks.js#9: CW Recipe Tweaks has fired.
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_clean_block
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_clean_block_blasting
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_exposed_block
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_exposed_block_blasting
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_rusted_block
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_rusted_block_blasting
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_weathered_block
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: immersive_weathering:iron_ingot_from_weathered_block_blasting
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: the_deep_void:refined_bismuth
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: minecraft:gunpowder
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: marbledsfirstaid:curative_pills
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: create:splashing/gravel
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: create:splashing/red_sand
+[16:39:41] [INFO] itemRecipeBlacklist.js#168: create_netherless:ender_pearl_by_haunting
+[16:39:41] [INFO] Posted recipe events in 375.7 ms
+[16:39:41] [WARN] Error parsing recipe tacz:misc/upgrade[tacz:gun_smith_table_crafting]: {"materials":[{"item":{"type":"forge:partial_nbt","item":"tacz:workbench_b","nbt":{"BlockId":"hamster:workbench"}},"count":1}],"result":{"type":"gun","item":"tacz:glock17"},"type":"tacz:gun_smith_table_crafting"}: Missing id, expected to find a string
+[16:39:41] [WARN] Error parsing recipe bf1:melee/sledge_hammer[tacz:gun_smith_table_crafting]: {"type":"tacz:gun_smith_table_crafting","materials":[{"item":{"tag":"forge:ingots/iron"},"count":12},{"item":{"tag":"forge:obsidian"},"count":8},{"item":{"tag":"forge:leather"},"count":2}],"result":{"type":"custom","group":"stock","item":{"item":"lrtactical:melee","nbt":{"MeleeWeaponId":"bf1:sledge_hammer"}}}}: Unknown item 'lrtactical:melee'
+[16:39:41] [WARN] Error parsing recipe minecraft:kjs/steriod_shot_enhanced[kubejs:shapeless]: {"type":"minecraft:crafting_shapeless","result":{"item":"kubejs:steriod_shot_enhanced","count":1},"ingredients":[{"item":"kubejs:steriod_shot"},{"item":"minecraft:nether_wart"},{"item":"minecraft:slime_ball"},{"item":"immersive_weathering:tallow"},[]]}: Item array cannot be empty, at least one item must be defined
+[16:39:41] [INFO] Added 64 recipes, removed 81 recipes, modified 0 recipes, with 3 failed recipes in 48.26 ms
+[16:39:43] [INFO] Server resource reload complete!

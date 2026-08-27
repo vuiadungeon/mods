@@ -1,0 +1,137 @@
+
+#Reporter access and moderation. Reading news is always public.
+[reporters]
+	#Require an OP to approve reporters before publishing.
+	requireReporterApproval = true
+	#Maximum public reporter bio length.
+	#Range: 20 ~ 2000
+	maxReporterBioLength = 300
+	#Individual cooldown per reporter between successful article posts.
+	#Range: 0 ~ 86400
+	articlePostCooldownSeconds = 30
+
+#Article and feed limits.
+[articles]
+	#Maximum article headline length.
+	#Range: 10 ~ 256
+	maxArticleTitleLength = 80
+	#Maximum article subtitle length.
+	#Range: 0 ~ 512
+	maxArticleSubtitleLength = 160
+	#Maximum article body characters. Formatting markers also count.
+	#Range: 50 ~ 50000
+	maxArticleCharacters = 800
+	#Maximum number of searchable tags per article.
+	#Range: 0 ~ 20
+	maxArticleTags = 8
+	#Maximum length of one article tag.
+	#Range: 3 ~ 64
+	maxArticleTagLength = 24
+	#Article summaries sent per paginated feed response.
+	#Range: 10 ~ 20
+	articlesPerPage = 15
+	#Allow reporters to include optional anonymous-source notes.
+	allowAnonymousSources = true
+	#Allow important stories to be pinned above the normal feed.
+	allowPinnedArticles = true
+	#When true, only OP/admin commands may pin articles.
+	onlyOpsCanPinArticles = true
+	#Allow OPs to mark articles as official server news.
+	enableOfficialServerNews = true
+	#Minutes after publication during which a reporter may edit their own article.
+	#Range: 0 ~ 10080
+	articleEditWindowMinutes = 30
+	#Whether opening your own article increases its view count.
+	countAuthorOwnViews = false
+
+#Reporter account session options.
+[accounts]
+	#Allow persistent per-player reporter sessions.
+	enableRememberMe = true
+	#Allow players to request an admin-assisted temporary password reset.
+	enableForgotPassword = true
+
+#Notifications.
+[notifications]
+	#Show prominent overlay alerts for newly published breaking news.
+	enableBreakingNewsNotifications = true
+	#Use the polished breaking-news overlay and subtle alert sound.
+	enableBreakingNewsEffects = true
+	#Show an in-GUI notification to online followers when a reporter publishes.
+	enableFollowerNotifications = true
+	#Send newly published article announcements in chat to followers of that reporter.
+	enableChatNewsAnnouncements = true
+	#Notify an online article owner when another player comments or replies.
+	notifyArticleOwnerOnComment = true
+
+#Optional social features.
+[social]
+	#Allow Like, Important, Funny, Suspicious, and Breaking reactions.
+	enableArticleReactions = true
+	#Allow readers to save articles to their private reading list.
+	enableBookmarks = true
+	#Allow readers to leave comments on published articles.
+	enableArticleComments = true
+	#Allow nested replies to article comments.
+	enableCommentReplies = true
+	#Allow players to like and unlike article comments.
+	enableCommentLikes = true
+	#Allow readers to report inappropriate articles to online OPs.
+	enableArticleReports = true
+	#Allow readers to report ServerPress user profiles to online OPs.
+	enableUserReports = true
+	#Maximum length of one article comment.
+	#Range: 20 ~ 512
+	maxCommentLength = 300
+	#Individual cooldown between comments.
+	#Range: 0 ~ 300
+	commentCooldownSeconds = 5
+	#Maximum threaded comments sent when an article opens. Kept bounded for large servers.
+	#Range: 10 ~ 100
+	commentsSentPerArticle = 100
+	#Individual cooldown between article reports.
+	#Range: 0 ~ 3600
+	articleReportCooldownSeconds = 60
+
+#Client GUI behavior.
+[gui]
+	#Refresh open ServerPress screens when relevant server data changes.
+	enableLiveGuiUpdates = true
+
+#Bounded article image uploads. Images are normalized to PNG server-side.
+[images]
+	#Allow reporters to attach local PNG/JPEG files to articles.
+	allowArticleImages = true
+	#Default false. When true, image articles stay hidden until /news review approve <articleId>.
+	requireImageApproval = false
+	#Convert uploaded images to black and white before storage/display. Default false keeps images in color.
+	blackAndWhiteImages = false
+	#Reserved switch for reporter profile-picture uploads.
+	allowProfilePictures = true
+	#Maximum images per article. Kept at three to bound packets and world-save growth.
+	#Range: 0 ~ 3
+	maxImagesPerArticle = 3
+	#Maximum size of each uploaded image before and after normalization.
+	#Range: 16 ~ 4096
+	maxImageSizeKB = 1024
+	#Longest stored image edge in pixels. Larger images are downscaled without stretching.
+	#Range: 256 ~ 4096
+	maxImageDimension = 2560
+	#Maximum decoded image pixel count before processing. Protects servers from oversized images.
+	#Range: 262144 ~ 16777216
+	maxImagePixelCount = 16777216
+
+#Presentation and permissions.
+[server]
+	#CLASSIC_NEWSPAPER, MODERN_NEWS_APP, MILITARY_BULLETIN, GOVERNMENT_ANNOUNCEMENT, or EMERGENCY_BROADCAST.
+	defaultGuiStyle = "CLASSIC_NEWSPAPER"
+	#Minecraft OP level used for ServerPress admin actions.
+	#Range: 0 ~ 4
+	adminPermissionLevel = 2
+	#How long a breaking article stays above normal articles. Default is five minutes.
+	#Range: 30 ~ 3600
+	breakingNewsPrioritySeconds = 300
+	#Minimum time between prominent breaking-news effects. Articles still publish normally.
+	#Range: 0 ~ 3600
+	breakingNewsEffectCooldownSeconds = 30
+

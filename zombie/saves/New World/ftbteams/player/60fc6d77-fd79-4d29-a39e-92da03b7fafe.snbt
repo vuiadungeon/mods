@@ -1,0 +1,17 @@
+{
+	id: "60fc6d77-fd79-4d29-a39e-92da03b7fafe"
+	type: "player"
+	player_name: "scoopminator"
+	ranks: {
+		60fc6d77-fd79-4d29-a39e-92da03b7fafe: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "scoopminator"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5984FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,42 @@
+[28Aug2026 00:00:00.122] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 6.710311 seconds
+[28Aug2026 00:00:00.127] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 52.904312 seconds
+[28Aug2026 00:00:00.490] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[28Aug2026 00:00:01.490] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[28Aug2026 00:00:02.491] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[28Aug2026 00:00:03.491] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[28Aug2026 00:00:04.491] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[28Aug2026 00:00:05.492] [VoiceChatAuthenticationThread/INFO] [voicechat/]: [voicechat] Trying to authenticate voice chat connection
+[28Aug2026 00:00:06.492] [VoiceChatAuthenticationThread/WARN] [voicechat/]: [voicechat] Trying to authenticate voice chat connection (this message will not be logged again)
+[28Aug2026 00:01:07.467] [Render thread/WARN] [net.minecraft.client.renderer.EffectInstance/]: Shader color_convolve could not find uniform named InSize in the specified shader program.
+[28Aug2026 00:01:07.475] [Render thread/WARN] [net.minecraft.client.renderer.EffectInstance/]: Shader color_convolve could not find uniform named InSize in the specified shader program.
+[28Aug2026 00:01:07.475] [Render thread/INFO] [SuperResolution/]: 已注入PostChain minecraft:shaders/post/desaturate.json
+[28Aug2026 00:01:08.386] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 228 advancements
+[28Aug2026 00:01:38.330] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 229 advancements
+[28Aug2026 00:01:44.622] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 256 advancements
+[28Aug2026 00:01:51.438] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 258 advancements
+[28Aug2026 00:02:01.867] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 260 advancements
+[28Aug2026 00:05:22.065] [Render thread/INFO] [AllTheLeaks/]: Listing events...
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: World join: 6
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]:   Singleplayer: 0
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]:   Multiplayer: 6
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: Client Level Updates: 30
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: Client Player Logout: 24
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: B: 2884MB / C: 3077MB / Diff: +193MB
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 6
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: | Level:
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: |- ClientLevel (minecraft): 1
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: | Player:
+[28Aug2026 00:05:22.066] [Render thread/INFO] [AllTheLeaks/]: |- LocalPlayer (minecraft): 1
+[28Aug2026 00:09:35.087] [Music Triggers Audio Output [example]/INFO] [Music Triggers/]: CLIENT | Channel[example]: Stopped track
+[28Aug2026 00:09:55.805] [Netty Client IO #15/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [watut:main,lc2h:chunk_debug,ponder:main,structure_gel:main,dummmmmmy:channel,insanelib:network_channel,corgilib:network,explosiveenhancement:main_channel,simply_traps:simply_traps,zombiekit:zombiekit,tacz:handshake,extra_zombie_drops:extra_zombie_drops,lc2h:frustum_debug,create_netherless:create_netherless,particular:main,coolrain:main,survival_instinct:survival_instinct,alexsmobs:main_channel,realmrpg_skeletons:realmrpg_skeletons,sereneseasons:main,toolbelt:general,lootr:main_network_channel,access_denied:access_denied,dataanchor:entity_tracked_data,ritchiesprojectilelib:network,dataanchor:level_tracked_data,moonlight:channel,refurbished_furniture:play,storage_shelves:storage_shelves,inventorysorter:net,charmofundying:main,ic_air:main,dataanchor:chunk_tracked_data,the_deeper_void:the_deeper_void,sona:sona,polymorph:main,doomsday_decoration:doomsday_decoration,binocularsmod:main,dataanchor:block_entity_tracked_data,cure:cure,tacz:network,money:money,sophisticatedbackpacks:channel,taczaddon:sync_data,the_deep_void:the_deep_void,powderedup:main,forge:tier_sorting,tslateffectslib:tel_channel,feralzombie:main,immersive_weathering:channel,serverpress:main,mutantmonsters:1,create:main,flashlightmod:main,lc2h:config_sync,comforts:main,jeffs_cursed_walking_structures:jeffs_cursed_walking_structures,carryon:carryonpackets,overworld_netherite_ore:overworld_netherite_ore,citadel:main_channel,securitycraft:securitycraft,aiycrates:aiycrates,rotten_flesh_to_leather:rotten_flesh_to_leather,curios:main,marbledsfirstaid:marbledsfirstaid,extragore:main,majruszlibrary:main,horror_element_mod:horror_element_mod,glitchcore:config_sync,sophisticatedcore:channel,patchouli:main] rejected vanilla connections
+[28Aug2026 00:12:44.777] [CullThread/INFO] [STDOUT/]: [dev.tr7zw.entityculling.CullTask:run:89]: Shutting down culling task!
+[28Aug2026 00:12:44.807] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[28Aug2026 00:12:44.808] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
+[28Aug2026 00:12:44.808] [Thread-1011/INFO] [EMI/]: [EMI] Clearing data
+[28Aug2026 00:12:44.809] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
+[28Aug2026 00:12:44.849] [Thread-40/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
+[28Aug2026 00:12:45.050] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
+[28Aug2026 00:12:45.050] [Render thread/INFO] [DistantHorizons-DistantHorizons-com.seibel.distanthorizons.core.api.internal.ClientApi/]: Client on ClientOnly mode disconnecting.

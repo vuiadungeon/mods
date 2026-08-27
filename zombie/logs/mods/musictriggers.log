@@ -1,0 +1,135 @@
+[22:44:13:592] [Music Triggers/INFO ]: Global[Data]: Initializing client channel data
+[22:44:13:603] [Music Triggers/INFO ]: ConfigMapper[7.0.4]: Set latest config version to 7.0.4
+[22:44:13:604] [Music Triggers/INFO ]: ConfigMapper[7.0.4]: Config version is up to date
+[22:44:13:622] [Music Triggers/INFO ]: Global[Data]: Parsing global data
+[22:44:13:641] [Music Triggers/INFO ]: CLIENT | Channel[example]: Successfully registered
+[22:44:14:201] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Parsing local data
+[22:44:14:202] [Music Triggers/WARN ]: CLIENT | Channel[data(example)]: No lines were read in from config/MusicTriggers/example/redirect.txt
+[22:44:14:211] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[structure]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[structure]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[structure]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[structure]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[structure]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[structure]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[structure]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[height]: Successfully parsed
+[22:44:14:212] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Successfully parsed
+[22:44:14:213] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Successfully parsed
+[22:44:14:213] [Music Triggers/INFO ]: CLIENT | Channel[example]: Intialized universal trigger data
+[22:44:14:214] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[adMortem]: Successfully parsed with triggers [Trigger[structure-deepslatebunker], Trigger[height-no_sky]]
+[22:44:14:214] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[adMortem]: Successfully parsed with triggers [Trigger[structure-oilrig]]
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[adMortem]: Successfully parsed with triggers [Trigger[structure-underwaterlab], Trigger[height-no_sky]]
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[gatheringDust]: Successfully parsed with triggers [Trigger[structure-nuclearbunker], Trigger[height-no_sky]]
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[gatheringDust]: Successfully parsed with triggers [Trigger[structure-nuclearsilo], Trigger[height-no_sky]]
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[gatheringDust]: Successfully parsed with triggers [Trigger[structure-nuclearreactor], Trigger[height-no_sky]]
+[22:44:14:215] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[concreteDreams]: Successfully parsed with triggers [Trigger[dimension-overworld]]
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[dim]: Successfully parsed with triggers [Trigger[dimension-depths]]
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[echoesBeneath]: Successfully parsed with triggers [Trigger[structure-teleporter], Trigger[height-no_sky]]
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[patientZero]: Successfully parsed with triggers [Trigger[dimension-overworld]]
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[unseen]: Successfully parsed with triggers [Trigger[dimension-depths]]
+[22:44:14:216] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:217] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[anticipation]: Successfully parsed with triggers [Trigger[dimension-overworld]]
+[22:44:14:217] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:217] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[zombie]: Successfully parsed with triggers [Trigger[dimension-overworld]]
+[22:44:14:217] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:217] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[finalExcuse]: Successfully parsed with triggers [Trigger[dimension-overworld]]
+[22:44:14:217] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Interrupt_Handler[interrupt_handler]: No triggers were found! Attempting to load anyways
+[22:44:14:218] [Music Triggers/WARN ]: CLIENT | Channel[data(example)]: No lines were read in from config/MusicTriggers/example/jukebox.txt
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[Combination = height-no_sky+structure-deepslatebunker] is mapped to event handlers [Trigger[Combination = height-no_sky+structure-deepslatebunker], Audio[adMortem]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[Combination = height-no_sky+structure-nuclearsilo] is mapped to event handlers [Trigger[Combination = height-no_sky+structure-nuclearsilo], Audio[gatheringDust]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[Combination = height-no_sky+structure-teleporter] is mapped to event handlers [Trigger[Combination = height-no_sky+structure-teleporter], Audio[echoesBeneath]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[dimension-overworld] is mapped to event handlers [Trigger[dimension-overworld], Audio[pool = finalExcuse+zombie+anticipation+patientZero+concreteDreams]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[Combination = height-no_sky+structure-underwaterlab] is mapped to event handlers [Trigger[Combination = height-no_sky+structure-underwaterlab], Audio[adMortem]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[height-no_sky] is mapped to event handlers [Trigger[height-no_sky]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[structure-underwaterlab] is mapped to event handlers [Trigger[structure-underwaterlab]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[structure-teleporter] is mapped to event handlers [Trigger[structure-teleporter]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[structure-nuclearreactor] is mapped to event handlers [Trigger[structure-nuclearreactor]]
+[22:44:14:228] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[Combination = height-no_sky+structure-nuclearreactor] is mapped to event handlers [Trigger[Combination = height-no_sky+structure-nuclearreactor], Audio[gatheringDust]]
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[Combination = height-no_sky+structure-nuclearbunker] is mapped to event handlers [Trigger[Combination = height-no_sky+structure-nuclearbunker], Audio[gatheringDust]]
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[dimension-depths] is mapped to event handlers [Audio[pool = dim+unseen], Trigger[dimension-depths]]
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[structure-nuclearsilo] is mapped to event handlers [Trigger[structure-nuclearsilo]]
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[structure-deepslatebunker] is mapped to event handlers [Trigger[structure-deepslatebunker]]
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[structure-nuclearbunker] is mapped to event handlers [Trigger[structure-nuclearbunker]]
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Trigger[structure-oilrig] is mapped to event handlers [Audio[adMortem], Trigger[structure-oilrig]]
+[22:44:14:229] [Music Triggers/DEBUG]: CLIENT | Channel[data(example)]: Appending 2 universal types
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Finished parsing local data
+[22:44:14:229] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Setting up link targets
+[22:44:14:229] [Music Triggers/INFO ]: Global[Data]: Finished parsing channel data
+[22:44:14:230] [Music Triggers/INFO ]: Global[Data]: Finished parsing toggles
+[22:44:14:231] [Music Triggers/INFO ]: JUKEBOX | Channel[jukebox]: Successfully registered
+[22:44:14:360] [Music Triggers/INFO ]: PREVIEW | Channel[preview]: Successfully registered
+[22:44:14:522] [Music Triggers/INFO ]: Global[Data]: Attempting to load stored audio references
+[22:44:14:526] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Setting master volume to 100.0%
+[22:44:14:526] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Setting category volume to 75.176056%
+[22:44:14:527] [Music Triggers/INFO ]: CLIENT | Channel[data(example)]: Loading 14 audio tracks
+[22:44:14:669] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[anticipation]: Successfully loaded track from anticipation.mp3
+[22:44:14:670] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[adMortem]: Successfully loaded track from adMortem.mp3
+[22:44:14:671] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[unseen]: Successfully loaded track from unseen.mp3
+[22:44:14:672] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[dim]: Successfully loaded track from dim.mp3
+[22:44:14:672] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[adMortem]: Successfully loaded track from adMortem.mp3
+[22:44:14:672] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[gatheringDust]: Successfully loaded track from gatheringDust.mp3
+[22:44:14:672] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[concreteDreams]: Successfully loaded track from concreteDreams.mp3
+[22:44:14:672] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[finalExcuse]: Successfully loaded track from finalExcuse.mp3
+[22:44:14:673] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[gatheringDust]: Successfully loaded track from gatheringDust.mp3
+[22:44:14:676] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[gatheringDust]: Successfully loaded track from gatheringDust.mp3
+[22:44:14:676] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[echoesBeneath]: Successfully loaded track from echoesBeneath.mp3
+[22:44:14:676] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[zombie]: Successfully loaded track from zombie.mp3
+[22:44:14:679] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[adMortem]: Successfully loaded track from adMortem.mp3
+[22:44:14:685] [Music Triggers/INFO ]: CLIENT | Channel[example]: Audio[patientZero]: Successfully loaded track from patientZero.mp3
+[22:44:15:817] [Music Triggers/INFO ]: CLIENT | Channel[example]: Successfully registered resource audio manager
+[22:44:15:817] [Music Triggers/INFO ]: CLIENT | Channel[example]: Finding resource tracks that need loading
+[22:49:44:916] [Music Triggers/DEBUG]: Global[Data]: Tried to get the client player ID but the player was null
+[22:49:45:151] [Music Triggers/INFO ]: Global[Data]: Constructued init message
+[22:49:45:156] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from IDLE to PLAYABLE
+[22:49:45:157] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[height]: Setting state from IDLE to PLAYABLE
+[22:49:45:157] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[selector]: Activating trigger Trigger[dimension-overworld]
+[22:49:45:157] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from PLAYABLE to ACTIVE
+[22:51:40:544] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from ACTIVE to IDLE
+[22:51:40:545] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[concreteDreams]: Stopping track
+[22:55:01:918] [Music Triggers/DEBUG]: Global[Data]: Tried to get the client player ID but the player was null
+[22:55:02:086] [Music Triggers/INFO ]: Global[Data]: Constructued init message
+[22:55:02:093] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from IDLE to PLAYABLE
+[22:55:48:043] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[concreteDreams]: Stopping track
+[23:01:53:895] [Music Triggers/INFO ]: CLIENT | Channel[example]: Stopped track
+[23:01:53:896] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Deactivated Trigger[dimension-overworld]
+[23:01:53:896] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from PLAYABLE to IDLE
+[23:02:08:743] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from IDLE to PLAYABLE
+[23:02:08:743] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[selector]: Activating trigger Trigger[dimension-overworld]
+[23:02:08:744] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from PLAYABLE to ACTIVE
+[23:02:08:869] [Music Triggers/INFO ]: Global[Data]: Constructued init message
+[23:03:05:593] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[zombie]: Stopping track
+[23:19:08:893] [Music Triggers/INFO ]: CLIENT | Channel[example]: Stopped track
+[23:19:08:894] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Deactivated Trigger[dimension-overworld]
+[23:19:08:894] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from ACTIVE to IDLE
+[23:20:05:451] [Music Triggers/DEBUG]: Global[Data]: Tried to get the client player ID but the player was null
+[23:20:05:574] [Music Triggers/INFO ]: Global[Data]: Constructued init message
+[23:20:05:593] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from IDLE to PLAYABLE
+[23:20:05:593] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[selector]: Activating trigger Trigger[dimension-overworld]
+[23:20:05:593] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from PLAYABLE to ACTIVE
+[23:21:25:743] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Audio[finalExcuse]: Stopping track
+[23:32:40:143] [Music Triggers/INFO ]: CLIENT | Channel[example]: Stopped track
+[23:32:40:144] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Deactivated Trigger[dimension-overworld]
+[23:32:40:144] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from ACTIVE to IDLE
+[23:48:06:693] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from IDLE to PLAYABLE
+[23:48:06:694] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[selector]: Activating trigger Trigger[dimension-overworld]
+[23:48:06:694] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from PLAYABLE to ACTIVE
+[23:48:06:811] [Music Triggers/INFO ]: Global[Data]: Constructued init message
+[23:50:54:405] [Music Triggers/INFO ]: CLIENT | Channel[example]: Stopped track
+[23:58:09:343] [Music Triggers/DEBUG]: CLIENT | Channel[example]: Deactivated Trigger[dimension-overworld]
+[23:58:09:344] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from ACTIVE to IDLE
+[23:59:55:347] [Music Triggers/DEBUG]: Global[Data]: Tried to get the client player ID but the player was null
+[23:59:55:790] [Music Triggers/INFO ]: Global[Data]: Constructued init message
+[23:59:55:793] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from IDLE to PLAYABLE
+[23:59:55:794] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[selector]: Activating trigger Trigger[dimension-overworld]
+[23:59:55:794] [Music Triggers/INFO ]: CLIENT | Channel[example]: Trigger[dimension]: Setting state from PLAYABLE to ACTIVE
+[00:09:35:087] [Music Triggers/INFO ]: CLIENT | Channel[example]: Stopped track

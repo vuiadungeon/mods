@@ -1,0 +1,1 @@
+{"jarName":"letsdo-API-forge-1.2.15-forge.jar","modId":"doapi","version":"1.2.15","mixinConfigs":["doapi-common.mixins.json","doapi.mixins.json"],"jarJarMods":[{"jarName":"jankson-1.2.1.jar","mixinConfigs":[],"jarJarMods":[],"pathFromJarJar":"/META-INF/jars/"}],"curseForgeHash":2024374848,"modrinthHash":"a261043a45097d861a13a63ebdbb0ca350e06a63"}
