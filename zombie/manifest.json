@@ -176,6 +176,11 @@
       "checksum": "d51a112256e323e92909ed8ea97a6e46"
     },
     {
+      "name": "mods/MineTraps-1.20.2-(v.2.3.0a).jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/MineTraps-1.20.2-%28v.2.3.0a%29.jar",
+      "checksum": "a05376e1425e338f6138da8eea005068"
+    },
+    {
       "name": "mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "checksum": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
@@ -571,6 +576,11 @@
       "checksum": "093eb577627f1707e64575b4d767b529"
     },
     {
+      "name": "mods/doomsday_decoration-1.1.3-forge-1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/doomsday_decoration-1.1.3-forge-1.20.1.jar",
+      "checksum": "780bd21f73ed1d2c901c00ade26b2f7d"
+    },
+    {
       "name": "mods/drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/drippyloadingscreen_forge_3.1.2_MC_1.20.1.jar",
       "checksum": "fb5f5106909e81ea86bea6ac0f5d021c"
@@ -734,6 +744,11 @@
       "name": "mods/handcrafted-forge-1.20.1-3.0.6.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/handcrafted-forge-1.20.1-3.0.6.jar",
       "checksum": "a5291f94fc830a80d2caf7d2ab7cd4fd"
+    },
+    {
+      "name": "mods/horror_element_mod-1.6.3-forge-1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/horror_element_mod-1.6.3-forge-1.20.1.jar",
+      "checksum": "e0aff20857550f67e21ad1e764eef05d"
     },
     {
       "name": "mods/immersive_aircraft-1.4.0+1.20.1-forge.jar",
@@ -1119,6 +1134,11 @@
       "name": "mods/super_resolution-forge-1.20.1-0.8.3-alpha.6+opengl.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/super_resolution-forge-1.20.1-0.8.3-alpha.6%2Bopengl.jar",
       "checksum": "37a0c9e5791dbb4c14df4e48273edd3f"
+    },
+    {
+      "name": "mods/survival_instinct-1.0.2-forge-1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/survival_instinct-1.0.2-forge-1.20.1.jar",
+      "checksum": "cc3d726c975632a9a4b78dea7a1d5fc5"
     },
     {
       "name": "mods/tacz-1.20.1-1.1.6-hotfix.jar",
