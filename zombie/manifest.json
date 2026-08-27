@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "mods/1.8.1+1.20.1+forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/1.8.1+1.20.1+forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/1.8.1%2B1.20.1%2Bforge.jar",
       "checksum": "443bc55458f4b694691cbc082c73a7a0"
     },
     {
@@ -12,7 +12,7 @@
     },
     {
       "name": "mods/AiyCrates 1.20.1 - 1.0.0.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/AiyCrates 1.20.1 - 1.0.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/AiyCrates%201.20.1%20-%201.0.0.jar",
       "checksum": "0219904081708a41ec1c94fb09be66b9"
     },
     {
@@ -37,7 +37,7 @@
     },
     {
       "name": "mods/Atlas Lib-1.20.1-1.1.12.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Atlas Lib-1.20.1-1.1.12.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Atlas%20Lib-1.20.1-1.1.12.jar",
       "checksum": "b63616d984991ee60d313938143eda3f"
     },
     {
@@ -72,7 +72,7 @@
     },
     {
       "name": "mods/CraftPresence-2.7.1+1.20.1-forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/CraftPresence-2.7.1+1.20.1-forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/CraftPresence-2.7.1%2B1.20.1-forge.jar",
       "checksum": "bda5c1f43a6b98a64a4ae71c8ec45616"
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "name": "mods/Flashier Flashlights 1.2.0.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Flashier Flashlights 1.2.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Flashier%20Flashlights%201.2.0.jar",
       "checksum": "2859fc2b2d7b1dbb1cb339d480295ae0"
     },
     {
@@ -142,7 +142,7 @@
     },
     {
       "name": "mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/ImmediatelyFast-Forge-1.5.4+1.20.4.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/ImmediatelyFast-Forge-1.5.4%2B1.20.4.jar",
       "checksum": "8fb21bb328cc322c6d9749eff087509f"
     },
     {
@@ -152,12 +152,12 @@
     },
     {
       "name": "mods/Item Scrapper Pack - Armor  Tools.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Item Scrapper Pack - Armor  Tools.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Item%20Scrapper%20Pack%20-%20Armor%20%20Tools.jar",
       "checksum": "45f8a901e6360921ac06d1cbb2bd5499"
     },
     {
       "name": "mods/Item Scrapper Pack - TACZ.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Item Scrapper Pack - TACZ.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Item%20Scrapper%20Pack%20-%20TACZ.jar",
       "checksum": "0ea6623649fae8742640a119f0b4d434"
     },
     {
@@ -172,7 +172,7 @@
     },
     {
       "name": "mods/Keerdm Zombie Apocalypse Essentials (TACZ) 1.42.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Keerdm Zombie Apocalypse Essentials (TACZ) 1.42.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Keerdm%20Zombie%20Apocalypse%20Essentials%20%28TACZ%29%201.42.jar",
       "checksum": "d51a112256e323e92909ed8ea97a6e46"
     },
     {
@@ -197,17 +197,17 @@
     },
     {
       "name": "mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Necronomicon-Forge-1.6.0%2B1.20.1.jar",
       "checksum": "a1f1433ea551925436e6b170ac2ff619"
     },
     {
       "name": "mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Not Enough Recipe Book-FORGE-0.4.1+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Not%20Enough%20Recipe%20Book-FORGE-0.4.1%2B1.20.1.jar",
       "checksum": "fa8240906f36683f66de537b34587643"
     },
     {
       "name": "mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
       "checksum": "6b2fd012966b13a96ce4f68ae42eab8c"
     },
     {
@@ -257,7 +257,7 @@
     },
     {
       "name": "mods/Sky's Overworld Netherite 2.8 1.20.1 Forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Sky's Overworld Netherite 2.8 1.20.1 Forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Sky%27s%20Overworld%20Netherite%202.8%201.20.1%20Forge.jar",
       "checksum": "41b6b2b71815aa0e618ed5a4d98a76f0"
     },
     {
@@ -277,7 +277,7 @@
     },
     {
       "name": "mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Steam_Rails-1.7.2%2Bforge-mc1.20.1.jar",
       "checksum": "ec91d63c97ff08beb324f34399f1bf1a"
     },
     {
@@ -312,7 +312,7 @@
     },
     {
       "name": "mods/UniLib-1.2.1+1.20.1-forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/UniLib-1.2.1+1.20.1-forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/UniLib-1.2.1%2B1.20.1-forge.jar",
       "checksum": "ef951050d7332deb6d2069b925a8701e"
     },
     {
@@ -342,12 +342,12 @@
     },
     {
       "name": "mods/Zombie Survival Kit-1.20.1-forge-2.1.8.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Zombie Survival Kit-1.20.1-forge-2.1.8.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Zombie%20Survival%20Kit-1.20.1-forge-2.1.8.jar",
       "checksum": "633249e1b9a08215f786bea98f3029e8"
     },
     {
       "name": "mods/[1.20.1] SecurityCraft v1.10.0.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/[1.20.1] SecurityCraft v1.10.0.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/%5B1.20.1%5D%20SecurityCraft%20v1.10.0.1.jar",
       "checksum": "9ef0bc4940bf472feff9592f528782ea"
     },
     {
@@ -362,7 +362,7 @@
     },
     {
       "name": "mods/alltheleaks-1.1.1+1.20.1-forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/alltheleaks-1.1.1+1.20.1-forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/alltheleaks-1.1.1%2B1.20.1-forge.jar",
       "checksum": "df84fbdadaf7947dc530872fa60fbc56"
     },
     {
@@ -437,12 +437,12 @@
     },
     {
       "name": "mods/chaoszpack v.1.4.0 TacZ.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/chaoszpack v.1.4.0 TacZ.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/chaoszpack%20v.1.4.0%20TacZ.jar",
       "checksum": "441f7a2c3b10b88edd30c874d311693b"
     },
     {
       "name": "mods/charmofundying-forge-6.5.0+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/charmofundying-forge-6.5.0+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/charmofundying-forge-6.5.0%2B1.20.1.jar",
       "checksum": "d083cc2318c6db88417fc8bf5ee7a18c"
     },
     {
@@ -477,22 +477,22 @@
     },
     {
       "name": "mods/colorwheel-forge-1.2.2+mc1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/colorwheel-forge-1.2.2+mc1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/colorwheel-forge-1.2.2%2Bmc1.20.1.jar",
       "checksum": "fa4cdeeff38869af3b9588f04309efa6"
     },
     {
       "name": "mods/colorwheel_patcher-forge-1.0.4+mc1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/colorwheel_patcher-forge-1.0.4+mc1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/colorwheel_patcher-forge-1.0.4%2Bmc1.20.1.jar",
       "checksum": "2cc3663f6ad63a6f63c78dee2fffe0b7"
     },
     {
       "name": "mods/combatroll-forge-1.3.3+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/combatroll-forge-1.3.3+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/combatroll-forge-1.3.3%2B1.20.1.jar",
       "checksum": "ad3316d461ca579585df7507ac789d85"
     },
     {
       "name": "mods/comforts-forge-6.4.0+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/comforts-forge-6.4.0+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/comforts-forge-6.4.0%2B1.20.1.jar",
       "checksum": "a88fcc168de1a0f9b2ae4e7cbe8a8408"
     },
     {
@@ -507,7 +507,7 @@
     },
     {
       "name": "mods/copycats-3.0.7+mc.1.20.1-forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/copycats-3.0.7+mc.1.20.1-forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/copycats-3.0.7%2Bmc.1.20.1-forge.jar",
       "checksum": "47e13c8058d400e4a6316d00f451b29c"
     },
     {
@@ -557,7 +557,7 @@
     },
     {
       "name": "mods/curios-forge-5.14.1+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/curios-forge-5.14.1+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/curios-forge-5.14.1%2B1.20.1.jar",
       "checksum": "2fdcc97cbc66c4b2492b407c792e7159"
     },
     {
@@ -602,12 +602,12 @@
     },
     {
       "name": "mods/embeddium-0.3.31+mc1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/embeddium-0.3.31+mc1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/embeddium-0.3.31%2Bmc1.20.1.jar",
       "checksum": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
     },
     {
       "name": "mods/emi-1.1.22+1.20.1+forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/emi-1.1.22+1.20.1+forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/emi-1.1.22%2B1.20.1%2Bforge.jar",
       "checksum": "441c582c6e8a1d6fd9e3d16a27c1a39e"
     },
     {
@@ -737,7 +737,7 @@
     },
     {
       "name": "mods/immersive_aircraft-1.4.0+1.20.1-forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/immersive_aircraft-1.4.0+1.20.1-forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/immersive_aircraft-1.4.0%2B1.20.1-forge.jar",
       "checksum": "f49ff767f611a95f9bd29a0e9977d9d5"
     },
     {
@@ -787,7 +787,7 @@
     },
     {
       "name": "mods/jamlib-forge-1.3.6+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/jamlib-forge-1.3.6+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/jamlib-forge-1.3.6%2B1.20.1.jar",
       "checksum": "bad6787c3ec1dc2e7ddf32d7a76405e4"
     },
     {
@@ -902,7 +902,7 @@
     },
     {
       "name": "mods/modernfix-forge-5.27.51+mc1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/modernfix-forge-5.27.51+mc1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/modernfix-forge-5.27.51%2Bmc1.20.1.jar",
       "checksum": "cbfd7febe91877849117fff48d0b5969"
     },
     {
@@ -927,7 +927,7 @@
     },
     {
       "name": "mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/noisium-forge-2.3.0+mc1.20-1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/noisium-forge-2.3.0%2Bmc1.20-1.20.1.jar",
       "checksum": "3a8e9a24408c991b3fb97685884f2cce"
     },
     {
@@ -977,12 +977,12 @@
     },
     {
       "name": "mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
       "checksum": "46f8554181d4d240075ea4919d01fd01"
     },
     {
       "name": "mods/polymorph-forge-0.49.10+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/polymorph-forge-0.49.10+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/polymorph-forge-0.49.10%2B1.20.1.jar",
       "checksum": "8e93675b33a89243d27f272f84e88338"
     },
     {
@@ -1002,7 +1002,7 @@
     },
     {
       "name": "mods/quantified api-omni-2.2.0.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/quantified api-omni-2.2.0.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/quantified%20api-omni-2.2.0.jar",
       "checksum": "5d4aa7f2caf6e4e6a4e0f6c229f5a932"
     },
     {
@@ -1032,7 +1032,7 @@
     },
     {
       "name": "mods/rightclickharvest-forge-4.6.1+1.20.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/rightclickharvest-forge-4.6.1+1.20.1.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/rightclickharvest-forge-4.6.1%2B1.20.1.jar",
       "checksum": "67a2061b0afbc0b52df53e65dd44f81d"
     },
     {
@@ -1077,7 +1077,7 @@
     },
     {
       "name": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar",
       "checksum": "c8cd5ae14d99796fd92c95a353e96211"
     },
     {
@@ -1117,7 +1117,7 @@
     },
     {
       "name": "mods/super_resolution-forge-1.20.1-0.8.3-alpha.6+opengl.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/super_resolution-forge-1.20.1-0.8.3-alpha.6+opengl.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/super_resolution-forge-1.20.1-0.8.3-alpha.6%2Bopengl.jar",
       "checksum": "37a0c9e5791dbb4c14df4e48273edd3f"
     },
     {
@@ -1167,7 +1167,7 @@
     },
     {
       "name": "mods/tp_shooting-1.20.1-5.1.1+tacz1.1.6-all.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/tp_shooting-1.20.1-5.1.1+tacz1.1.6-all.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/tp_shooting-1.20.1-5.1.1%2Btacz1.1.6-all.jar",
       "checksum": "8449f5e5f21eb75d2e4393c86d5b7a8e"
     },
     {
@@ -1202,7 +1202,7 @@
     },
     {
       "name": "mods/wits-1.1.0+1.20.1-forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/wits-1.1.0+1.20.1-forge.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/wits-1.1.0%2B1.20.1-forge.jar",
       "checksum": "d0636bc871d66a2cd8700f507b5ef572"
     },
     {
@@ -1212,7 +1212,7 @@
     },
     {
       "name": "mods/zombies_plus-2.1.2-1.20-.4(excl.3)-[forge-fabric].jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/zombies_plus-2.1.2-1.20-.4(excl.3)-[forge-fabric].jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/zombies_plus-2.1.2-1.20-.4%28excl.3%29-%5Bforge-fabric%5D.jar",
       "checksum": "7f7852c3ac6ade028242cf0709c68274"
     }
   ]
