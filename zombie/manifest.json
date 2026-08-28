@@ -17491,11 +17491,6 @@
       "checksum": "9e11e95b4d47b39a05cda4530b7d6bd7"
     },
     {
-      "name": "mods/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/DistantHorizons-3.2.0-b-1.20.1-fabric-forge.jar",
-      "checksum": "e3863fee862ff2228786aa444e54adfe"
-    },
-    {
       "name": "mods/EZActions-forge-1.20.1-2.0.1.6.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/EZActions-forge-1.20.1-2.0.1.6.jar",
       "checksum": "a66cddb2ae420eb6ca1c5c261385775f"
