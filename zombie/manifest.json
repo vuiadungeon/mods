@@ -17676,11 +17676,6 @@
       "checksum": "ec2194e64bdd85f3969b76dc583276cc"
     },
     {
-      "name": "mods/Sona-1.20.1-forge-1.5.1.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Sona-1.20.1-forge-1.5.1.jar",
-      "checksum": "d8d0bef142e1854a56c5f08861b913a2"
-    },
-    {
       "name": "mods/Steam_Rails-1.7.2+forge-mc1.20.1.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Steam_Rails-1.7.2%2Bforge-mc1.20.1.jar",
       "checksum": "ec91d63c97ff08beb324f34399f1bf1a"
@@ -17744,11 +17739,6 @@
       "name": "mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
       "checksum": "fe8d205c98cb02840d46646fb7cf5ab8"
-    },
-    {
-      "name": "mods/Zombie Survival Kit-1.20.1-forge-2.1.8.jar",
-      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/Zombie%20Survival%20Kit-1.20.1-forge-2.1.8.jar",
-      "checksum": "633249e1b9a08215f786bea98f3029e8"
     },
     {
       "name": "mods/[1.20.1] SecurityCraft v1.10.0.1.jar",
