@@ -46815,5 +46815,10 @@
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/xaero/world-map/New%20World/server_config.txt",
       "checksum": "5dc537d1076a2f2e8d123f06f591bcc1"
     }
-  ]
+  ],
+  "version": {
+    "loader": "forge",
+    "loaderVersion": "47.4.10",
+    "minecraftVersion": "1.20.1"
+  }
 }
