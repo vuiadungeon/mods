@@ -17841,6 +17841,11 @@
       "checksum": "74d7adf4a7ea4d2f6544d61690836b0f"
     },
     {
+      "name": "mods/chunksending-fabric-1.21-3.9.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/chunksending-fabric-1.21-3.9.jar",
+      "checksum": "b837565d380321fcbb92f6274fe60c02"
+    },
+    {
       "name": "mods/citadel-2.6.3-1.20.1.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/citadel-2.6.3-1.20.1.jar",
       "checksum": "da80c09b998d829b6d580e5be76dcc7b"
@@ -18479,6 +18484,11 @@
       "name": "mods/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
       "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/smoothboot%28reloaded%29-mc1.20.1-0.0.4.jar",
       "checksum": "c8cd5ae14d99796fd92c95a353e96211"
+    },
+    {
+      "name": "mods/smoothchunk-fabric-26.1-4.2.jar",
+      "uri": "https://raw.githubusercontent.com/vuiadungeon/mods/main/zombie/mods/smoothchunk-fabric-26.1-4.2.jar",
+      "checksum": "11a94a485f35ffff7a676632e2f6186d"
     },
     {
       "name": "mods/sophisticatedbackpacks-1.20.1-3.23.17.1246.jar",
